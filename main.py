@@ -232,7 +232,7 @@ def printStats():
     print(f"  - ✅ Working cookies: {colorama.Fore.GREEN}{total_working}{colorama.Fore.RESET}")
     print(f"  - ❌ Working but no subscription: {colorama.Fore.MAGENTA}{total_unsubscribed}{colorama.Fore.RESET}")
     print(f"  - 💀 Dead cookies: {colorama.Fore.RED}{total_fails}{colorama.Fore.RESET}")
-    print(f"  - ❤️ Thanks For Using Checker --- Checker by https://github.com/harshitkamboj")
+    print(f"  - ❤️ Thanks For Using Checker --- JOIN SERVER - https://discord.gg/JJQHfjW6xm")
     print("\n")
 
 def get_started(cookies_error=False):
